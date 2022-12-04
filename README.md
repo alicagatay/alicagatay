@@ -4,7 +4,7 @@
 - 👨‍💻 My main work areas are:
     - 📡 Full stack software development using HTML, CSS, JavaScript, React.js, Node.js and PostgreSQL.
     - 📱 Cross platform mobile, web & desktop application development using Flutter and Dart.
-    - 💎 API development using Django.
+    - 💎 API development using Django and Node.js.
 - 👯 In my free times, I love to work out or listen to music.
 - 🤔 My favorite programming language is JavaScript, and my favorite framework is Flutter.
 - 📫 You can reach me from:
