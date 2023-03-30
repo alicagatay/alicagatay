@@ -1,35 +1,36 @@
-# Hi there, I'm Ali 👋
+<h1 align="center">Hi 👋, I'm Ali</h1>
+<h3 align="center">A full stack web and mobile developer and a full time learner</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alicagatay&label=Profile%20views&color=0e75b6&style=flat" alt="alicagatay" /> </p>
 
-- 🔭 I am an aspiring software engineer from Birmingham, United Kingdom who generally enjoys building stuff: be it a full stack web page, a cross platform mobile application, or an API that people can use on their backend services. I have strong technical skills and background in software engineering, machine learning and problem solving.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alicagatay" alt="alicagatay" /></a> </p>
 
+- 🌱 I’m currently learning **TypeScript, Vue.js, Svelte, Tailwind CSS, Angular, Go**
 
-- 🎓 In my university studies, I have studied a variation of subjects such as machine learning, data structures & algorithms, computer vision, and mobile & ubiquitous computing. As part of my final year dissertation, I have built a mobile application which can recommend workout moves to its user based on their messages. I have built the frontend mobile application using Flutter and Dart, and I have built the backend server and machine learning framework using Python, Tensorflow, NLTK and Flask.
+- 👨‍💻 All of my projects are available at [https://github.com/alicagatay?tab=repositories](https://github.com/alicagatay?tab=repositories)
 
+- 📝 I regularly write articles on [aliccagatay.medium.com](aliccagatay.medium.com)
 
-- 👨‍🏫 Other than that, for the last 2 and a half years I am also volunteering at CodeYourFuture, a school that offers career-focused software development training to refugees and people from low-income backgrounds, as a technical assistant and teaching lead in order to teach full stack web development to its trainees using technologies such as HTML, CSS, JavaScript, React.js, Node.js and PostgreSQL.
+- 💬 Ask me about **JavaScript, HTML, CSS, React.js, Node.js, PostgreSQL, NoSQL, Flutter, Full Stack Web Development, Multi Platform Mobile Application Development**
 
+- 📫 How to reach me **aliccagatay@gmail.com**
 
-- 🤓 My Tech Stack:
-    - 💡 Programming Languages: JavaScript, Python, Dart, Java, HTML, CSS, PostgreSQL, Matlab, Unix Command Line
-    - 🔧 Frameworks: Flutter, Django, React.js, Tensorflow, PyTorch, NLTK
-    - 🔭 Developer Tools: Git, Docker, JetBrains IDE’s, VS Code, Postman, Vim
-    - 👨‍🎨 Design Tools: Affinity Designer, Keynote
+- 📄 Know about my experiences [https://docs.google.com/document/d/1nwSpTizxvcZiFWpN-Ffy1hZ2sVuzl0NSYADWtBwkMU4/edit?usp=sharing](https://docs.google.com/document/d/1nwSpTizxvcZiFWpN-Ffy1hZ2sVuzl0NSYADWtBwkMU4/edit?usp=sharing)
 
+- ⚡ Fun fact **I am bilingual(English and Turkish)**
 
-- 👨‍💻 My main work areas are:
-    - 📡 Full stack software development using HTML, CSS, JavaScript, React.js, Node.js and PostgreSQL.
-    - 📱 Cross platform mobile, web & desktop application development using Flutter and Dart.
-    - 💎 API development using Django and Node.js.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alicagatay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alicagatay" height="30" width="40" /></a>
+<a href="https://instagram.com/_alicagatay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_alicagatay" height="30" width="40" /></a>
+<a href="https://medium.com/@aliccagatay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliccagatay" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- 💼 I'm always looking to grow my network, so feel free to follow me on Github.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicagatay&show_icons=true&locale=en&layout=compact" alt="alicagatay" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicagatay&show_icons=true&locale=en" alt="alicagatay" /></p>
 
-- 📫 At the moment I am also actively looking and applying for Software Engineer/Developer roles, so if you have anything for me or know anyone that can have something, please reach me from the following:
-    - [My email address](mailto:aliccagatay@gmail.com)
-    - [My LinkedIn profile](https://www.linkedin.com/in/alicagatay)
-    - My Discord username: `alicagatay#8472`
-
-
-- 👀 Also checkout my [webpage](https://alicagatay.github.io/#/) which I also developed by using Flutter 😁.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicagatay&" alt="alicagatay" /></p>
