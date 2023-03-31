@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alicagatay" alt="alicagatay" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **MongoDB, Cypress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alicagatay?tab=repositories](https://github.com/alicagatay?tab=repositories)
 
