@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **<aliccagatay@gmail.com>**
 
-- 📄 You can learn more about me by entering [alicagatay.github.io](alicagatay.github.io)
+- 📄 You can learn more about me by entering [alicagatay.github.io](https://alicagatay.github.io/)
 
 - ⚡ Fun fact **I am bilingual(English and Turkish)**
 
