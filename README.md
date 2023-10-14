@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ali</h1>
 <h3 align="center">A full-stack web and mobile developer, a writer, and a full time learner</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** **Next.js** **Tailwind CSS** **tRPC** **Prisma** **NextAuth.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alicagatay?tab=repositories](https://github.com/alicagatay?tab=repositories)
 
