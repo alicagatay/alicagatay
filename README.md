@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Ali</h1>
-<h3 align="center">A full-stack web and mobile application developer, a writer, and a full time learner</h3>
+<h3 align="center">Software Engineer | Data Scientist | ML Enthusiast | Writer & Lifelong Learner</h3>
 
-- 🌱 I’m currently learning **tRPC**, **Prisma**, **NextAuth.js**
+- 🌱 I’m currently learning **Data Visualisation**, **Data Preprocessing**, **Computer Vision and it's Applications in AI**
 
 - 👨‍💻 You can find all the projects I have worked on previously, or currently working on from [this link](https://www.alicagatay.xyz/projects)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@aliccagatay)
 
-- 💬 Ask me about **full-stack web development, full-stack mobile application development, TypeScript, JavaScript, Tailwind CSS, Next.js, Dart, Flutter, HTML, CSS**
+- 💬 Ask me about **machine learning, deep learning, data science, full-stack software development, Python, TypeScript, JavaScript, Tailwind CSS, Next.js, Tensorflow**
 
 - 📫 How to reach me **<aliccagatay@gmail.com>**
 
